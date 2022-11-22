@@ -1,4 +1,4 @@
-# DigiGirls_Excel_Capstone_Project_2022_08_31
+# DigiGirl_Excel_Capstone_Project_2022_08_31
 Using Pivot tables and charts, perform the following tasks.
 1. Which Region raked in the most Revenue?
 2. Who are the top five and bottom five Countries, based on profit?  
